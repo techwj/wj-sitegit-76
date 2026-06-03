@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-travel-insurance-buying-guide",
+      "title": "The Ultimate Guide to Beginner Travel Insurance Buying Guide",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870576",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Travel Insurance Buying Guide",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-travel-insurance-buying-guide-everything-you-need-to-know",
+      "title": "Beginner Travel Insurance Buying Guide: Everything You Need to Know",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870673",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Beginner Travel Insurance Buying Guide: Everything You Need to Know",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-travel-insurance-buying-guide",
+      "title": "Understanding Beginner Travel Insurance Buying Guide",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870727",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Understanding Beginner Travel Insurance Buying Guide",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-travel-insurance-buying-guide-tips-and-best-practices",
+      "title": "Beginner Travel Insurance Buying Guide Tips and Best Practices",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870801",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Beginner Travel Insurance Buying Guide Tips and Best Practices",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-travel-insurance-buying-guide",
+      "title": "The History of Beginner Travel Insurance Buying Guide",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870867",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: The History of Beginner Travel Insurance Buying Guide",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-travel-insurance-buying-guide-in-2026-current-trends",
+      "title": "Beginner Travel Insurance Buying Guide in 2026: Current Trends",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870913",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Beginner Travel Insurance Buying Guide in 2026: Current Trends",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-travel-insurance-buying-guide",
+      "title": "Future of Beginner Travel Insurance Buying Guide",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.870957",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Future of Beginner Travel Insurance Buying Guide",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-travel-insurance-buying-guide",
+      "title": "Common Mistakes in Beginner Travel Insurance Buying Guide",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871007",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Common Mistakes in Beginner Travel Insurance Buying Guide",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-travel-insurance-buying-guide-for-beginners",
+      "title": "Beginner Travel Insurance Buying Guide for Beginners",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871052",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Beginner Travel Insurance Buying Guide for Beginners",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-travel-insurance-buying-guide-techniques",
+      "title": "Advanced Beginner Travel Insurance Buying Guide Techniques",
+      "category": "beginner-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871095",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Advanced Beginner Travel Insurance Buying Guide Techniques",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-travel-insurance-buying-guide",
+      "title": "The Ultimate Guide to Advanced Travel Insurance Buying Guide",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871498",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Travel Insurance Buying Guide",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-travel-insurance-buying-guide-everything-you-need-to-know",
+      "title": "Advanced Travel Insurance Buying Guide: Everything You Need to Know",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871539",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide: Everything You Need to Know",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-travel-insurance-buying-guide",
+      "title": "Understanding Advanced Travel Insurance Buying Guide",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871587",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Understanding Advanced Travel Insurance Buying Guide",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-travel-insurance-buying-guide-tips-and-best-practices",
+      "title": "Advanced Travel Insurance Buying Guide Tips and Best Practices",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871635",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide Tips and Best Practices",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-travel-insurance-buying-guide",
+      "title": "The History of Advanced Travel Insurance Buying Guide",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871678",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: The History of Advanced Travel Insurance Buying Guide",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-travel-insurance-buying-guide-in-2026-current-trends",
+      "title": "Advanced Travel Insurance Buying Guide in 2026: Current Trends",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871719",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide in 2026: Current Trends",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-travel-insurance-buying-guide",
+      "title": "Future of Advanced Travel Insurance Buying Guide",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871762",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Future of Advanced Travel Insurance Buying Guide",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-travel-insurance-buying-guide",
+      "title": "Common Mistakes in Advanced Travel Insurance Buying Guide",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871802",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Common Mistakes in Advanced Travel Insurance Buying Guide",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-travel-insurance-buying-guide-for-beginners",
+      "title": "Advanced Travel Insurance Buying Guide for Beginners",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871843",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide for Beginners",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-travel-insurance-buying-guide-techniques",
+      "title": "Advanced Advanced Travel Insurance Buying Guide Techniques",
+      "category": "advanced-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.871885",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Advanced Advanced Travel Insurance Buying Guide Techniques",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-travel-insurance-buying-guide-tips",
+      "title": "The Ultimate Guide to Travel Insurance Buying Guide Tips",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872255",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: The Ultimate Guide to Travel Insurance Buying Guide Tips",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 38,
+      "slug": "travel-insurance-buying-guide-tips-everything-you-need-to-know",
+      "title": "Travel Insurance Buying Guide Tips: Everything You Need to Know",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872297",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tips: Everything You Need to Know",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-travel-insurance-buying-guide-tips",
+      "title": "Understanding Travel Insurance Buying Guide Tips",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872338",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Understanding Travel Insurance Buying Guide Tips",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 40,
+      "slug": "travel-insurance-buying-guide-tips-tips-and-best-practices",
+      "title": "Travel Insurance Buying Guide Tips Tips and Best Practices",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872379",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tips Tips and Best Practices",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-travel-insurance-buying-guide-tips",
+      "title": "The History of Travel Insurance Buying Guide Tips",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872423",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: The History of Travel Insurance Buying Guide Tips",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 42,
+      "slug": "travel-insurance-buying-guide-tips-in-2026-current-trends",
+      "title": "Travel Insurance Buying Guide Tips in 2026: Current Trends",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872467",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tips in 2026: Current Trends",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-travel-insurance-buying-guide-tips",
+      "title": "Future of Travel Insurance Buying Guide Tips",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872508",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Future of Travel Insurance Buying Guide Tips",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-travel-insurance-buying-guide-tips",
+      "title": "Common Mistakes in Travel Insurance Buying Guide Tips",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872549",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Common Mistakes in Travel Insurance Buying Guide Tips",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 45,
+      "slug": "travel-insurance-buying-guide-tips-for-beginners",
+      "title": "Travel Insurance Buying Guide Tips for Beginners",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872592",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tips for Beginners",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-travel-insurance-buying-guide-tips-techniques",
+      "title": "Advanced Travel Insurance Buying Guide Tips Techniques",
+      "category": "tips-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.872638",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide Tips Techniques",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-travel-insurance-buying-guide-history",
+      "title": "The Ultimate Guide to Travel Insurance Buying Guide History",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873008",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: The Ultimate Guide to Travel Insurance Buying Guide History",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 56,
+      "slug": "travel-insurance-buying-guide-history-everything-you-need-to-know",
+      "title": "Travel Insurance Buying Guide History: Everything You Need to Know",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873049",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Travel Insurance Buying Guide History: Everything You Need to Know",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-travel-insurance-buying-guide-history",
+      "title": "Understanding Travel Insurance Buying Guide History",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873097",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Understanding Travel Insurance Buying Guide History",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 58,
+      "slug": "travel-insurance-buying-guide-history-tips-and-best-practices",
+      "title": "Travel Insurance Buying Guide History Tips and Best Practices",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873140",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Travel Insurance Buying Guide History Tips and Best Practices",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-travel-insurance-buying-guide-history",
+      "title": "The History of Travel Insurance Buying Guide History",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873183",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: The History of Travel Insurance Buying Guide History",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 60,
+      "slug": "travel-insurance-buying-guide-history-in-2026-current-trends",
+      "title": "Travel Insurance Buying Guide History in 2026: Current Trends",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873221",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Travel Insurance Buying Guide History in 2026: Current Trends",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-travel-insurance-buying-guide-history",
+      "title": "Future of Travel Insurance Buying Guide History",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873263",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Future of Travel Insurance Buying Guide History",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-travel-insurance-buying-guide-history",
+      "title": "Common Mistakes in Travel Insurance Buying Guide History",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873302",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Common Mistakes in Travel Insurance Buying Guide History",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 63,
+      "slug": "travel-insurance-buying-guide-history-for-beginners",
+      "title": "Travel Insurance Buying Guide History for Beginners",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873341",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Travel Insurance Buying Guide History for Beginners",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-travel-insurance-buying-guide-history-techniques",
+      "title": "Advanced Travel Insurance Buying Guide History Techniques",
+      "category": "history-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873389",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide History Techniques",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-travel-insurance-buying-guide",
+      "title": "The Ultimate Guide to Trending Travel Insurance Buying Guide",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873730",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: The Ultimate Guide to Trending Travel Insurance Buying Guide",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-travel-insurance-buying-guide-everything-you-need-to-know",
+      "title": "Trending Travel Insurance Buying Guide: Everything You Need to Know",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873769",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Trending Travel Insurance Buying Guide: Everything You Need to Know",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-travel-insurance-buying-guide",
+      "title": "Understanding Trending Travel Insurance Buying Guide",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873809",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Understanding Trending Travel Insurance Buying Guide",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-travel-insurance-buying-guide-tips-and-best-practices",
+      "title": "Trending Travel Insurance Buying Guide Tips and Best Practices",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873847",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Trending Travel Insurance Buying Guide Tips and Best Practices",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-travel-insurance-buying-guide",
+      "title": "The History of Trending Travel Insurance Buying Guide",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873900",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: The History of Trending Travel Insurance Buying Guide",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-travel-insurance-buying-guide-in-2026-current-trends",
+      "title": "Trending Travel Insurance Buying Guide in 2026: Current Trends",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873940",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Trending Travel Insurance Buying Guide in 2026: Current Trends",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-travel-insurance-buying-guide",
+      "title": "Future of Trending Travel Insurance Buying Guide",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.873977",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Future of Trending Travel Insurance Buying Guide",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-travel-insurance-buying-guide",
+      "title": "Common Mistakes in Trending Travel Insurance Buying Guide",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874015",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Common Mistakes in Trending Travel Insurance Buying Guide",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-travel-insurance-buying-guide-for-beginners",
+      "title": "Trending Travel Insurance Buying Guide for Beginners",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874054",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Trending Travel Insurance Buying Guide for Beginners",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-travel-insurance-buying-guide-techniques",
+      "title": "Advanced Trending Travel Insurance Buying Guide Techniques",
+      "category": "trending-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874090",
+      "image": {
+        "id": "5322794b0d212bf2bf4e5f75bd91106e0980bb2bcc8c3c4df8326795d3923b1a",
+        "url": "https://picsum.photos/1073/432?random=125",
+        "alt": "Featured image for: Advanced Trending Travel Insurance Buying Guide Techniques",
+        "width": 1073,
+        "height": 432
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-travel-insurance-buying-guide-tutorials",
+      "title": "The Ultimate Guide to Travel Insurance Buying Guide Tutorials",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874430",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: The Ultimate Guide to Travel Insurance Buying Guide Tutorials",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 92,
+      "slug": "travel-insurance-buying-guide-tutorials-everything-you-need-to-know",
+      "title": "Travel Insurance Buying Guide Tutorials: Everything You Need to Know",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874469",
+      "image": {
+        "id": "5844d5679d4305a71d2e515e607e2f188d819c58fb9ef4057e6bfd5812e2f9d0",
+        "url": "https://picsum.photos/877/539?random=434",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tutorials: Everything You Need to Know",
+        "width": 877,
+        "height": 539
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-travel-insurance-buying-guide-tutorials",
+      "title": "Understanding Travel Insurance Buying Guide Tutorials",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874511",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Understanding Travel Insurance Buying Guide Tutorials",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 94,
+      "slug": "travel-insurance-buying-guide-tutorials-tips-and-best-practices",
+      "title": "Travel Insurance Buying Guide Tutorials Tips and Best Practices",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874549",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tutorials Tips and Best Practices",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-travel-insurance-buying-guide-tutorials",
+      "title": "The History of Travel Insurance Buying Guide Tutorials",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874586",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: The History of Travel Insurance Buying Guide Tutorials",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 96,
+      "slug": "travel-insurance-buying-guide-tutorials-in-2026-current-trends",
+      "title": "Travel Insurance Buying Guide Tutorials in 2026: Current Trends",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874624",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tutorials in 2026: Current Trends",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-travel-insurance-buying-guide-tutorials",
+      "title": "Future of Travel Insurance Buying Guide Tutorials",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874662",
+      "image": {
+        "id": "000a46380f830f4b3a468f31e89bdc323a1bded6d608937f02fd379ddff005e5",
+        "url": "https://picsum.photos/920/514?random=656",
+        "alt": "Featured image for: Future of Travel Insurance Buying Guide Tutorials",
+        "width": 920,
+        "height": 514
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-travel-insurance-buying-guide-tutorials",
+      "title": "Common Mistakes in Travel Insurance Buying Guide Tutorials",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874700",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Common Mistakes in Travel Insurance Buying Guide Tutorials",
+        "width": 970,
+        "height": 458
+      }
+    },
+    {
+      "id": 99,
+      "slug": "travel-insurance-buying-guide-tutorials-for-beginners",
+      "title": "Travel Insurance Buying Guide Tutorials for Beginners",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874737",
+      "image": {
+        "id": "e5fe97912ae0449ca49758922a93f1cb167c9b7dfcb55fd62e922ff29f7fbef8",
+        "url": "https://picsum.photos/898/499?random=532",
+        "alt": "Featured image for: Travel Insurance Buying Guide Tutorials for Beginners",
+        "width": 898,
+        "height": 499
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-travel-insurance-buying-guide-tutorials-techniques",
+      "title": "Advanced Travel Insurance Buying Guide Tutorials Techniques",
+      "category": "tutorials-travel-insurance-buying-guide",
+      "created_at": "2026-06-02T19:22:23.874774",
+      "image": {
+        "id": "981bec1d08b498a2dc027f95a7858a30408ec9c0a903c6cdf1e6f5bac353be6d",
+        "url": "https://picsum.photos/970/458?random=830",
+        "alt": "Featured image for: Advanced Travel Insurance Buying Guide Tutorials Techniques",
+        "width": 970,
+        "height": 458
+      }
+    }
+  ],
+  "categories": [
+    "beginner-travel-insurance-buying-guide",
+    "advanced-travel-insurance-buying-guide",
+    "tips-travel-insurance-buying-guide",
+    "history-travel-insurance-buying-guide",
+    "trending-travel-insurance-buying-guide",
+    "tutorials-travel-insurance-buying-guide"
+  ]
+}
